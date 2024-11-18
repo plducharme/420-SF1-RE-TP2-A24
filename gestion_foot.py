@@ -32,7 +32,7 @@ def ecart_type(vitesse: List[float], passes: List[int], tirs: List[int], buts: L
 
 
 def division(seuil: float, noms: List[str], vitesse: List[float], passes: List[int], tirs: List[int], buts: List[int])\
-        -> Tuple[str, str]:
+        -> Tuple[List[str], List[str]]:
     pass
 
 
