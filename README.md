@@ -52,7 +52,7 @@ Pour chaque joueur, votre affichage doit ressembler comme suit (Vous devez respe
     Passes : 45  
     Tirs cadrés : 10  
     Buts : 8  
-    Efficacité : 38.9  
+    Efficacité : 30.4  
     -----------------------------------  
     Nom : Mustapha Boushaba  
     Poste : Attaquant  
@@ -102,7 +102,7 @@ Puis trier les joueurs par ordre d’efficacité décroissant et les afficher.
 Votre affichage doit ressembler à ceci en fonction des joueurs saisis (Les chiffres en préfixe doivent s’afficher aussi pour dire l’ordre) :
 ```
 1. Mustapha Boushaba - Efficacité : 51.1
-2. Lionel Messi – Efficacité : 38.9
+2. Lionel Messi – Efficacité : 30.4
 etc…
 ```
 
